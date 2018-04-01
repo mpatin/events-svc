@@ -1,1 +1,1 @@
-This serverless project defines the events service for the Whosn `/events/` endpoint. 
+This serverless project defines the events service for the Whosn `/events` endpoint. 
